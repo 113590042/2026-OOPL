@@ -84,7 +84,25 @@
   - [ ] 製作遊戲簡報
   - [ ] 提交最終專題
 
+# PTSD Girafee Adventure 通關證明
 
-# OOP 修課證明 (if you need)
+### 112590454 林妍蓁
 
-![111590004](111590004OOP.png)
+**遊戲畫面**
+
+<img src="112590454_giraffe.png" width="400">
+
+**終端機輸出**
+
+<img src="112590454_terminal.png" width="400">
+
+
+### 112590455 吳哲丞
+
+**遊戲畫面**
+
+<img src="112590455_giraffe.jpg" width="400">
+
+**終端機輸出**
+
+<img src="112590455_terminal.png" width="400">
