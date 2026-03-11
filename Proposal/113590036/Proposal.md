@@ -120,5 +120,7 @@ Week 17: Testing, Final Polish, & Final Submission
 
 
 ## 長頸鹿通關
-![](pass.png)
+![](giraffe.png)
 
+## OOP 修課證明
+![](113590036OOP.png)
