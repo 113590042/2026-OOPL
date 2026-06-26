@@ -8,7 +8,7 @@
 
 ## 專案簡介
 
-##期末Demo影片
+## 期末Demo影片
 
 [跳轉](https://youtu.be/oxmuoNwu41Q)
 
